@@ -1,0 +1,15 @@
+artifact_uri: file:///home/slshimizu92/code/SLShimizu/TaxiFareModel/mlruns/1/612c5d9544714cca81e87640c14f34ae/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: 612c5d9544714cca81e87640c14f34ae
+run_uuid: 612c5d9544714cca81e87640c14f34ae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1653386772175
+status: 1
+tags: []
+user_id: unknown
